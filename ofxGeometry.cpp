@@ -2,7 +2,7 @@
  *  ofxGeometry.cpp
  *
  *  Created by Rick Companje on 23-03-11.
- *  Copyright 2010 Globe4D. All rights reserved.
+ *  Feel free to use and improve this code
  *
  */
 
